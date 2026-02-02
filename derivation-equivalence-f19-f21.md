@@ -194,14 +194,4 @@ This is exactly equation (15), confirming that the condition holds at the bounda
 
 On the boundary of the effective cooperation zone (where \(\Delta_1 = 0\)), equations (F.19) and (F.21) are mathematically equivalent. The equivalence is guaranteed by condition (15), which reflects the equilibrium relationship among model parameters at the boundary.
 
-## Key Insights
 
-1. **Structural Consistency**: The equivalence demonstrates the internal consistency of the dual externality framework.
-
-2. **Parameter Relationships**: Condition (15) reveals how operational costs (\(\kappa_1, k_1\)), transport characteristics (\(dHy\)), and environmental valuation (\(\lambda\)) must balance at the cooperation boundary.
-
-3. **Boundary Definition**: This derivation provides the mathematical foundation for the effective cooperation zone boundaries defined in Proposition 4 of the main paper.
-
-## References
-
-For complete model specification and parameter definitions, refer to Appendix A of the main paper.
