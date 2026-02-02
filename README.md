@@ -10,7 +10,7 @@ This repository contains the complete algebraic derivation for the equivalence b
 
 - **`derivation-equivalence-f19-f21.md`** - Complete derivation in Markdown format
 - **`derivation.tex`** - LaTeX source code for the derivation
-- **`CITATION.md`** - How to cite this material
+
 
 ## 🎯 Core Derivation
 
