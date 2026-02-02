@@ -9,7 +9,6 @@ This repository contains the complete algebraic derivation for the equivalence b
 ## 📋 Contents
 
 - **`derivation-equivalence-f19-f21.md`** - Complete derivation in Markdown format
-- **`derivation-equivalence-f19-f21.pdf`** - PDF version for easy reading
 - **`derivation.tex`** - LaTeX source code for the derivation
 - **`CITATION.md`** - How to cite this material
 
@@ -30,27 +29,10 @@ where:
 - \(\kappa_1 = k_1 + \frac{d}{F\eta}(Fh_1 + h_2)\)
 - The equivalence condition is: \(2\kappa_1 - 2k_1 + 2dHy - \lambda(e_L - e_R) = 4\sqrt{(dy + k_2)[k_0 - (e_L - e_R)\lambda]}\)
 
-## 🔗 Related Paper
 
-**Main Paper:**  
-*A game-theoretic approach for pricing policy under urban rail mixed passenger-freight transport*  
-[Authors], [Journal], [Year]. DOI: [DOI]
-
-## 📝 Usage
-
-To view the derivation:
-1. Read the Markdown file (`derivation-equivalence-f19-f21.md`) directly on GitHub
-2. Download the PDF (`derivation-equivalence-f19-f21.pdf`) for offline reading
-3. Compile the LaTeX file (`derivation.tex`) if you need to modify or extend the derivation
 
 ## 📄 License
 
 This supplementary material is provided under the same license terms as the main paper. Please refer to the main paper for copyright information.
 
-## 🤝 Contributing
 
-This repository is a supplementary material for a published paper. While contributions are not expected, if you find any issues or have suggestions, please open an Issue.
-
-## 📧 Contact
-
-For questions about this derivation, please contact the corresponding author of the main paper.
